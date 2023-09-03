@@ -1,0 +1,53 @@
+commit 83eeb0533c1bf1576e6947b4fff26f62fff1489e
+Author: Inho Kim <111304495+s5219071@users.noreply.github.com>
+Date:   Sun Sep 3 12:31:01 2023 +1000
+
+    Create README.md
+
+commit f23d1781c29147b9453954724d9362fcbde6067f
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Fri Sep 1 20:54:49 2023 +1000
+
+    Update Software design document
+    
+    small updates to document
+
+commit bd8c92bbb220c02538edd342673e26d454bb83df
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Fri Sep 1 14:43:22 2023 +1000
+
+    update to project plan
+    
+    reuploading
+
+commit 888010aa52d7a87d2e8b9144f83831d673c0ba7c
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Fri Sep 1 14:39:52 2023 +1000
+
+    update project plan
+    
+    made a few changes to project plan document
+
+commit 66ad945da5f1cf4a306881439b76e1e9ecda5fac
+Author: Inho Kim <111304495+s5219071@users.noreply.github.com>
+Date:   Fri Sep 1 12:01:31 2023 +1000
+
+    Add files via upload
+    
+    Project Documents
+
+commit d18b75ffb081706d695cdd2b2d9bdccafc460919
+Author: Ehkeller Hein <141027362+Ehkeller-Hein@users.noreply.github.com>
+Date:   Mon Aug 28 23:50:21 2023 +1000
+
+    updated gnatt chart
+    
+    half of gnatt chart completed
+
+commit 9689964c516b3b22594a926e20587e6cb92e3719
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Mon Aug 28 23:31:37 2023 +1000
+
+    update
+    
+    small updates
