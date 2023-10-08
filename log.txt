@@ -1,3 +1,48 @@
+commit 06d11e1a67e645b2ad2ba9c4ac4196afe12ce59b
+Merge: b569501 04e37f5
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Sun Oct 8 15:32:15 2023 +1000
+
+    Merge branch 'main' of https://github.com/s5219071/Group-56
+
+commit b569501e2b4bf956a5764551fba3f5f834d22225
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Sun Oct 8 15:32:12 2023 +1000
+
+    Update Gantt chart.xlsx
+    
+    updated
+
+commit 04e37f53663d0e1b06756eb64c47b4d20c36d60b
+Author: Inho Kim <111304495+s5219071@users.noreply.github.com>
+Date:   Sun Oct 8 14:56:56 2023 +1000
+
+    Add files via upload
+    
+    Dataset_py
+
+commit 2c625e4d64dfbe76483cbc519466ee24ca458525
+Author: Inho Kim <111304495+s5219071@users.noreply.github.com>
+Date:   Sun Oct 8 14:54:35 2023 +1000
+
+    Add files via upload
+
+commit 083b686ccce7c350d9eff6636514f2d7242a64f1
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Sun Oct 8 10:10:56 2023 +1000
+
+    Executive Summary and Software Testing Report
+    
+    Added both the summary and report
+
+commit be1ddfdb655b17d1a8b19e387824315a9f6af1f5
+Author: Ehkeller-Hein <ehkellerhein14@gmail.com>
+Date:   Sun Sep 3 16:03:48 2023 +1000
+
+    Create log.txt
+    
+    added a log
+
 commit 83eeb0533c1bf1576e6947b4fff26f62fff1489e
 Author: Inho Kim <111304495+s5219071@users.noreply.github.com>
 Date:   Sun Sep 3 12:31:01 2023 +1000
