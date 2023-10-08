@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="background_image">
+    <file>banner.png</file>
+  </qresource>
+  <qresource prefix="banner_small">
+    <file>banner(640x480).png</file>
+    <file>banner(640x100).png</file>
+  </qresource>
+</RCC>
